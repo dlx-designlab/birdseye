@@ -1,0 +1,74 @@
+{
+    "GFSAD1000_Cropland": {
+      "key": "./images/ui/map-keys/1.png",
+      "official_name": "GFSAD1000: Cropland Extent 1km Multi-Study Crop Mask, Global Food-Support Analysis Data",
+      "name": "Crop Water Use",
+      "description": "This map shows the amount of water used for crops, ranging from brown to yellow to green in increasing order.",
+      "jp_name": "農作物の水使用量",
+      "jp_description": "この地図は、農作物に使われる水の量の増加を、茶色から黄色、緑色の順に示しています。",
+      "link": "https://developers.google.com/earth-engine/datasets/catalog/USGS_GFSAD1000_V1?hl=en"
+    },
+    "Biomass_Carbon_Density": {
+      "key": "./images/ui/map-keys/2.png",
+      "official_name": "WCMC Above and below ground biomass carbon density",
+      "name": "Vegetation Density",
+      "description": "Dark green areas on this map indicate denser vegetation cover.",
+      "jp_name": "植生密度",
+      "jp_description": "この地図の濃い緑の部分は、植生の密度がより高いことを示しています。",
+      "link": "https://developers.google.com/earth-engine/datasets/catalog/WCMC_biomass_carbon_density_v1_0?hl=en"
+    },
+    "Accessibility_to_Healthcare_2019": {
+      "key": "./images/ui/map-keys/3.png",
+      "official_name": "Accessibility to Healthcare 2019",
+      "name": "Distance to Healthcare",
+      "description": "This map shows accessibility to healthcare with darker areas indicating closer access.",
+      "jp_name": "医療機関までの距離",
+      "jp_description": "このマップでは、医療へのアクセスを示しており、濃い色の部分は距離が近いことを示しています。",
+      "link": "https://developers.google.com/earth-engine/datasets/catalog/Oxford_MAP_accessibility_to_healthcare_2019?hl=en"
+    },
+    "Keetch-Byram_Drought_Index": {
+      "key": "./images/ui/map-keys/4.png",
+      "official_name": "KBDI: Keetch-Byram Drought Index",
+      "name": "Drought Level",
+      "description": "The blue end of the spectrum on this map corresponds to high soil moisture, while colors closer to brown indicate drought and wildfire risk.",
+      "jp_name": "干ばつレベル",
+      "jp_description": "青色の部分は土壌の水分量が多いことを示し、茶色に近い部分は干ばつや山火事の危険性を示しています。",
+      "link": "https://developers.google.com/earth-engine/datasets/catalog/UTOKYO_WTLAB_KBDI_v1?hl=en"
+    },
+    "Chlorophyll-a_concentration": {
+      "key": "./images/ui/map-keys/5.png",
+      "official_name": "GCOM-C/SGLI L3 Chlorophyll-a concentration (V2)",
+      "name": "Ocean Oxygen Level",
+      "description": "Green areas on this map indicate higher presence of chlorophyll-a and oxygenic photosynthesis in the ocean.",
+      "jp_name": "海洋酸素濃度",
+      "jp_description": "この地図の緑色の部分は、海中のクロロフィルaの濃度や光合成による酸素発生が多いことを示しています",
+      "link": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GCOM-C_L3_OCEAN_CHLA_V2?hl=en"
+    },
+    "Hansen_Global_Forest_Change": {
+      "key": "./images/ui/map-keys/6.png",
+      "official_name": "Hansen Global Forest Change v1.7 (2000-2019)",
+      "name": "Forest Loss",
+      "description": "This map shows deforestation over time, with the red end of the spectrum indicating most recent areas of forest loss.",
+      "jp_name": "森林の消失",
+      "jp_description": "この地図は、時間の経過とともに森林が減少していることを示しており、赤に近い色は最も最近の森林消失地域を示しています。",
+      "link": "https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_global_forest_change_2019_v1_7?hl=en"
+    },
+    "HYCOM": {
+      "key": "./images/ui/map-keys/7.png",
+      "official_name": "HYCOM: Hybrid Coordinate Ocean Model, Sea Surface Elevation",
+      "name": "Sea Surface Elevation",
+      "description": "The gradient on this map shows the height of surface of the sea, going from dark blue to orange.",
+      "jp_name": "海面の上昇",
+      "jp_description": "この地図のグラデーションは海面の上昇を示しており、濃い青からオレンジへと変化します。",
+      "link": "https://developers.google.com/earth-engine/datasets/catalog/HYCOM_sea_surface_elevation?hl=en"
+    },
+    "YCEO_Surface_Urban_Heat_Islands": {
+      "key": "./images/ui/map-keys/8.png",
+      "official_name": "YCEO Surface Urban Heat Islands: pixel-level annual daytime and nighttime intensity",
+      "name": "Urban Activity",
+      "description": "Red areas on this map indicate high heat density and activity in urban clusters.",
+      "jp_name": "都市活動",
+      "jp_description": "この地図の赤い部分は、熱密度が高く、都市部での活動が活発であることを示しています。",
+      "link": "https://developers.google.com/earth-engine/datasets/catalog/YALE_YCEO_UHI_UHI_yearly_pixel_v4?hl=en"
+    }
+  }

@@ -1,0 +1,101 @@
+{
+    "back": "back",
+    "search-stories-page": {
+        "search-placeholder": "Search by keyword or location...",
+        "deforestation": "deforestation",
+        "ocean": "ocean",
+        "relevance": "relevance",
+        "level": "level",
+        "date": "date",
+        "location": "location",
+        "reviews": "reviews",
+        "popularity": "popularity",
+        "apply": "apply",
+        "data": "DATA",
+        "story": "STORY",
+        "current-alerts": "your current alerts: farming, disaster, coronavirus",
+        "sort-settings": "sort settings",
+        "point": "POINT",
+        "area": "AREA"
+    },
+    "profile-page": {
+        "settings": "SETTINGS",
+        "location-history": "Location History",
+        "suggestion-pref": "Suggestion Preferences",
+        "five-keywords": "5 keywords >",
+        "saved": "26 saved >"
+    },
+    "network-page": {
+        "title": "Network",
+        "requests": "REQUESTS",
+        "connections": "Connections",
+        "search-placeholder": "search for someone...",
+        "search-request-placeholder": "search for a request...",
+        "connections-count": "10 connections",
+        "data-request": "Request: Data",
+        "story-request": "Request: Story"
+    },
+    "points-page": {
+        "title": "Points",
+        "next-level": "next level",
+        "verified-source": "Verified source",
+        "counter": "3,215 points",
+        "current-level": "current level",
+        "apply": "Apply for verification >",
+        "upload": "Upload credentials, diplomas, certifications (up to 10, 000 points)  >",
+        "verified": "Verified posts (up to 10 points) >",
+        "provide": "Provide answers to requests (up to 500 points)  >",
+        "reviews": "Positive reviews (up to 20 points)  >"
+    },
+    "alerts-page": {
+        "title": "Alerts",
+        "update": "Update Results",
+        "create": "Create Alert",
+        "current": "Current keywords",
+        "disaster": "disaster",
+        "earthquake": "earthquake",
+        "deforestation": "deforestation",
+        "coronavirus": "coronavirus",
+        "ocean": "ocean",
+        "farming": "farming"
+    },
+    "archives-page": {
+        "title": "Archives",
+        "saved-posts": "Saved posts:",
+        "one": "Indigenous heritage in Ecuador  >",
+        "two": "Community learning about traditional farming  >",
+        "three": "Farming cotton without pesticides in Japan  >"
+    },
+    "stories-info": {
+        "source": "Source: ",
+        "data": "Data: ",
+        "similar": "similar stories >",
+        "similar-to": "Similar stories to"
+    },
+    "upload": {
+        "pair-story": "pair your story with environmental data:",
+        "request-story": "REQUEST STORY",
+        "request-data": "REQUEST DATA",
+        "search-placeholder": "search keywords (e.g. flood, deforestation, earthquake, urban)",
+        "share": "share a story:",
+        "title": "Title of story >",
+        "pair": "pair with data:",
+        "media": "media >",
+        "location": "location >",
+        "date": "date >",
+        "tags": "tags >",
+        "description": "description >",
+        "cta": "PAIR"
+    },
+    "analyze": {
+        "filters": "FILTERS",
+        "all-posts": "ALL posts",
+        "my-posts": "MY posts",
+        "search-placeholder": "Search by keyword or tag...",
+        "from": "From >",
+        "to": "To >",
+        "location": "Location >",
+        "patterns": "PATTERNS",
+        "timeline": "TIMELINE"
+    }
+}

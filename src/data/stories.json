@@ -1,0 +1,1178 @@
+[
+    {
+      "id": 0,
+      "topic": "Farming",
+      "title": "Climate-resilient agriculture in India",
+      "img": "./images/stories/farmers.jpg",
+      "comparison_img": "/images/data-previews/GFSAD1000_Cropland.jpg",
+      "satellite_data_assigned": "GFSAD1000_Cropland",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/USGS_GFSAD1000_V1",
+      "date": "2017-04-13",
+      "location": "Swayam Shikshan Prayog, India",
+      "lat": 18.5645048,
+      "lng": 73.7838215,
+      "rect": {
+        "north": 18.5645048,
+        "south": 22.5645048,
+        "east": 73.7838215,
+        "west": 70.7838215
+      },
+      "color": "red",
+      "media": "image",
+      "tags": [ 
+          "farming", "traditional", "community", "organic"
+        ],
+      "description": "Local farmers in India start their own movement to develop climate-resilient agriculture in their country. Their community provides free courses and training in using less pesticides. Members are encouraged to use traditional methods of farming and are support through local subsidies. ",
+      "jp_title": "インドの気候変動に強い農業",
+      "jp_location": "スワヤム・シクシャン・プラヨグ、インド",
+      "jp_tags": [
+        "農業",
+        "伝統",
+        "コミュニティ",
+        "オーガニック"
+      ],
+      "jp_description": "インドでは、気候変動に強い農業を発展させるために、地元の農民たちが独自の運動を始めました。彼らのコミュニティは、無料の講座や減農薬のトレーニングを提供しています。メンバーは伝統的な農法を用いることが奨励され、地元の補助金によって支援されています。"
+    },
+    {
+      "id": 1,
+      "topic": "Farming",
+      "title": "Farming cotton without pesticides in Japan",
+      "img": "./images/stories/cottonpicking.jpg",
+      "comparison_img": "./images/data-previews/GFSAD1000_Cropland.jpg",
+      "satellite_data_assigned": "GFSAD1000_Cropland",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/USGS_GFSAD1000_V1",
+      "date": "2017-11-06",
+      "location": "Fukushima, Japan",
+      "lat": 37.3834,
+      "lng": 140.1833,
+      "rect": {
+        "north": 37.3834,
+        "south": 39.5645048,
+        "east": 140.1833,
+        "west": 137.7838215
+      },
+      "color": "green",
+      "media": "image",
+      "tags": ["farming", "pesticides", "education", "agriculture"],
+      "description": "After the Tohoku earthquake in 2011, our community in Fukushima has come together to grow cotton on abandoned farmland. This cotton is resistant to the aftermath of the tsunami, which has left the soil with a high concentration in salt. We are producing a type of brown cotton, which make resilient threads and fabrics. ",
+      "jp_title": "日本での無農薬綿花栽培",
+      "jp_location": "福島、日本",
+      "jp_tags": [
+        "耕作",
+        "農薬",
+        "教育",
+        "農業"
+      ],
+      "jp_description": "2011年の東日本大震災の後、福島のコミュニティは、放棄された農地で綿花を栽培するために団結しました。この綿花は、津波の影響で塩分濃度の高くなってしまった土壌にも耐性があります。私たちは、耐久性のある糸や布を作ることのできる茶綿を生産しています。"
+    },
+    {
+      "id": 2,
+      "topic": "Farming",
+      "title": "Community learning about traditional farming",
+      "img": "./images/stories/conservation.jpg",
+      "comparison_img": "./images/data-previews/Biomass_Carbon_Density.jpg",
+      "satellite_data_assigned": "Biomass_Carbon_Density",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/NASA_ORNL_biomass_carbon_density_v1",
+      "date": "2018-08-21",
+      "location": "Kumbo, Cameroon",
+      "lat": 6.2245,
+      "lng": 10.6760,
+      "rect": {
+        "north": 6.2245,
+        "south": 9.5645048,
+        "east": 10.6760,
+        "west": 7.7838215
+      },
+      "color": "yellow",
+      "media": "image",
+      "tags": ["farming", "community", "education", "organic"],
+      "description": "We are creating alternative income-generating opportunities in Cameroon, by training our community in organic honey production. We want to improve the degradation of our land and educate the next generation in protecting wildlife.",
+      "jp_title": "伝統的な農業に関するコミュニティでの学習",
+      "jp_location": "クンボ、カメルーン",
+      "jp_tags": [
+        "耕作",
+        "コミュニティ",
+        "教育",
+        "オーガニック"
+      ],
+      "jp_description": "私たちは、カメルーンのコミュニティに有機蜂蜜生産のトレーニングを提供し、代替的収入を得る機会を創出しています。土地の劣化を改善し、野生生物を保護するために次の世代を教育したいと考えています。"
+    },
+    {
+      "id": 3,
+      "topic": "Farming",
+      "title": "Indigenous Heritage in Ecuador",
+      "img": "./images/stories/juntos.jpg",
+      "comparison_img": "./images/data-previews/GFSAD1000_Cropland.jpg",
+      "satellite_data_assigned": "GFSAD1000_Cropland",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/USGS_GFSAD1000_V1",
+      "date": "2020-11-25",
+      "location": "Napo, Ecuador",
+      "lat": 0.9956,
+      "lng": -77.8130,
+      "rect": {
+        "north": 0.9956,
+        "south": 8.5645048,
+        "east": -77.8130,
+        "west": -81.7838215
+      },
+      "color": "blue",
+      "media": "image",
+      "tags": ["farming", "ecoagriculture", "indigenous", "organic"],
+      "description": "The Asociacion de Mujeres Waorani de la Amazonia Ecuatoriana promotes organic cacao cultivation as a wildlife protection measure. They hope that their initiative can be a pathway to local sustainable development in their region. ",
+      "jp_title": "エクアドルの先住民族の遺産",
+      "jp_location": "ナポ、エクアドル",
+      "jp_tags": [
+        "耕作",
+        "環境に優しい農業",
+        "先住民族",
+        "オーガニック"
+      ],
+      "jp_description": "野生動物保護のために有機カカオの栽培を推進しているAsociacion de Mujeres Waorani de la Amazonia Ecuatoriana。彼らの活動が、地域の持続可能な発展への道筋となることを願っています。"
+    },
+    {
+      "id": 4,
+      "topic": "Disaster",
+      "title": "Recent earthquake in Japan",
+      "img": "./images/stories/destroyed_home.jpg",
+      "comparison_img": "./images/data-previews/Accessibility_to_Healthcare_2019.jpg",
+      "satellite_data_assigned": "Accessibility_to_Healthcare_2019",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/Oxford_MAP_accessibility_to_healthcare_2019",
+      "date": "2021-02-13",
+      "location": "Fukushima, Japan",
+      "lat": 37.3834,
+      "lng": 140.1833,
+      "rect": {
+        "north": 37.3834,
+        "south": 43.3834,
+        "east": 140.1833,
+        "west": 136.7838215
+      },
+      "color": "red",
+      "media": "image",
+      "tags": ["earthquake", "disaster", "relief", "asia"],
+      "description": "Saturday night's earthquake was intense! I saw many houses collapse in the neighborhood, including these buildings on the picture. Please send relief efforts and restore our electricity as soon as possible so that we can get in touch with our families! ",
+      "jp_title": "日本での近年の地震",
+      "jp_location": "福島県、日本",
+      "jp_tags": [
+        "地震",
+        "災害",
+        "救援",
+        "アジア"
+      ],
+      "jp_description": "土曜日の夜に起きた地震は強烈でした。近所では、写真の建物をはじめ、多くの家が倒壊しているのを見ました。一刻も早く救援の手配をし、電気を復旧させて、家族と連絡が取れるようにしてください！"
+    },
+    {
+      "id": 5,
+      "topic": "Disaster",
+      "title": "Intense floods destroy my neighborhood",
+      "img": "./images/stories/Flooding_village.jpg",
+      "comparison_img": "./images/data-previews/Accessibility_to_Healthcare_2019.jpg",
+      "satellite_data_assigned": "Accessibility_to_Healthcare_2019",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/Oxford_MAP_accessibility_to_healthcare_2019",
+      "date": "2020-01-04",
+      "location": "Saptari, Nepal",
+      "lat": 26.6173,
+      "lng": 86.7014,
+      "rect": {
+        "north": 26.6173,
+        "south": 31.5645048,
+        "east": 86.7014,
+        "west": 80.7014
+      },
+      "color": "green",
+      "media": "image",
+      "tags": ["flood", "disaster", "asia", "housing"],
+      "description": "The monsoon has caused flooding and landslides... I spent the last night on the top of my roof with my daughter, four other children, and in laws. All of our belongings are gone. ",
+      "jp_title": "大洪水による近隣の破壊",
+      "jp_location": "サプタリ、ネパール",
+      "jp_tags": [
+        "洪水",
+        "災害",
+        "アジア",
+        "住宅"
+      ],
+      "jp_description": "モンスーンの影響で洪水や土砂崩れが起きています...。私は昨夜、娘や他の4人の子供たち、義理の家族と一緒に屋根の上で過ごしました。私たちの持ち物はすべてなくなりました。"
+    },
+    {
+      "id": 6,
+      "topic": "Disaster",
+      "title": "Food crisis due to drought",
+      "img": "./images/stories/dry_land.jpg",
+      "comparison_img": "./images/data-previews/Keetch-Byram_Drought_Index.jpg",
+      "satellite_data_assigned": "Keetch-Byram_Drought_Index",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/UTOKYO_WTLAB_KBDI_v1",
+      "date": "2019-06-01",
+      "location": "La Grecia, Nicaragua",
+      "lat": 13.1830,
+      "lng": -86.5729,
+      "rect": {
+        "north": 13.1830,
+        "south": 18.1830,
+        "east": -86.5729,
+        "west": -90.7838215
+      },
+      "color": "yellow",
+      "media": "image",
+      "tags": ["disaster", "drought", "agriculture", "america"],
+      "description": "I don't know how many more years I will be able to stay on this land in these conditions. Our agriculture has not yielded enough for us to subsist on since El Nino hit us a few years ago. ",
+      "jp_title": "干ばつによる食糧危機",
+      "jp_location": "ラ・グレシア、ニカラグア",
+      "jp_tags": [
+        "災害",
+        "干ばつ",
+        "農業",
+        "アメリカ"
+      ],
+      "jp_description": "このような状況で、あと何年この土地にいられるのかわかりません。数年前にエルニーニョが発生して以来、私たちが生活するのに十分な収穫が得られていません。"
+    },
+    {
+      "id": 7,
+      "topic": "Disaster",
+      "title": "Indonesian earthquake relief efforts",
+      "img": "./images/stories/earthquake.jpg",
+      "comparison_img": "./images/data-previews/Accessibility_to_Healthcare_2019.jpg",
+      "satellite_data_assigned": "Accessibility_to_Healthcare_2019",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/Oxford_MAP_accessibility_to_healthcare_2019",
+      "date": "2021-02-17",
+      "location": "Sulawesi, Indonesia",
+      "lat": 1.8479,
+      "lng": 120.5279,
+      "rect": {
+        "north": 1.8479,
+        "south": 8.5645048,
+        "east": 120.5279,
+        "west": 115.5279
+      },
+      "color": "blue",
+      "media": "image",
+      "tags": ["asia", "earthquake", "disaster", "emergency"],
+      "description": "The latest earthquake was traumatising. It left hundreds of people injured and thousands displaced. Five people have died from the collapse of our building... It all happened within seconds.",
+      "jp_title": "インドネシアでの地震救援活動",
+      "jp_location": "スラウェシ島、インドネシア",
+      "jp_tags": [
+        "アジア",
+        "地震",
+        "災害",
+        "緊急事態"
+      ],
+      "jp_description": "今回の地震はトラウマになりました。何百人もの人が負傷し、何千人もの人が家を失いました。私たちのビルが倒壊して5人が亡くなりました...。すべては数秒のうちに起こりました。"
+    },
+    {
+      "id": 8,
+      "topic": "Disaster",
+      "title": "Aftermath of earthquake in Japan",
+      "img": "./images/stories/house.jpg",
+      "comparison_img": "./images/data-previews/Accessibility_to_Healthcare_2019.jpg",
+      "satellite_data_assigned": "Accessibility_to_Healthcare_2019",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/Oxford_MAP_accessibility_to_healthcare_2019",
+      "date": "2021-02-13",
+      "location": "Sendai, Japan",
+      "lat": 38.2682,
+      "lng": 140.8694,
+      "rect": {
+        "north": 38.2682,
+        "south": 42.2682,
+        "east": 140.8694,
+        "west": 135.8694
+      },
+      "color": "red",
+      "media": "image",
+      "tags": ["earthquake", "disaster", "house", "asia"],
+      "description": "Our house has completely crumbled after last weekend's earthquake! Please send help or advise us in any way. We are welcoming any form of support. ",
+      "jp_title": "インドネシアでの地震救援活動",
+      "jp_location": "スラウェシ島、インドネシア",
+      "jp_tags": [
+        "アジア",
+        "地震",
+        "災害",
+        "緊急事態"
+      ],
+      "jp_description": "今回の地震はトラウマになりました。何百人もの人が負傷し、何千人もの人が家を失いました。私たちのビルが倒壊して5人が亡くなりました...。すべては数秒のうちに起こりました。"
+    },
+    {
+      "id": 9,
+      "topic": "Environmental Justice",
+      "title": "Oil spill is affecting fishing ",
+      "img": "./images/stories/boat.jpg",
+      "comparison_img": "./images/data-previews/Chlorophyll-a_concentration.jpg",
+      "satellite_data_assigned": "Chlorophyll-a_concentration",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GCOM-C_L3_OCEAN_CHLA_V2?hl=en",
+      "date": "2020-07-10",
+      "location": "Guimaras, Philippines",
+      "lat": 10.5929,
+      "lng": 122.6325,
+      "rect": {
+        "north": 10.5929,
+        "south": 15.5929,
+        "east": 122.6325,
+        "west": 118
+      },
+      "color": "green",
+      "media": "image",
+      "tags": ["oil spill", "ocean", "pollution", "fishing"],
+      "description": "This oil tanker has sunk on the coast of our island months ago and about 2.1 liters of bunker fuel has been contaminating our waters. I am shocked to see dead fish floating in the water every day and oil all over the place. Our island and our sea has been painted black. ",
+      "jp_title": "原油流出の漁業への影響",
+      "jp_location": "ギマラス、フィリピン",
+      "jp_tags": [
+        "原油流出",
+        "海",
+        "汚染",
+        "漁業"
+      ],
+      "jp_description": "先週末の地震で私たちの家は完全に崩れてしまいました！ どんな形でも構わないので、私たちに援助を送ったりアドバイスをしてください。どんな形の支援でも歓迎します。"
+    },
+    {
+      "id": 10,
+      "topic": "Environmental Justice",
+      "title": "Illegal logging in Brazil",
+      "img": "./images/stories/forest.jpg",
+      "comparison_img": "./images/data-previews/Hansen_Global_Forest_Change.jpg",
+      "satellite_data_assigned": "Hansen_Global_Forest_Change",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_global_forest_change_2019_v1_7?hl=en",
+      "date": "2019-08-28",
+      "location": "Rodonia, Brazil",
+      "lat": 11.5057,
+      "lng": -63.013143,
+      "rect": {
+        "north": 11.5057,
+        "south": 15.5057,
+        "east": -63.013143,
+        "west": -70.013143
+      },
+      "color": "yellow",
+      "media": "image",
+      "tags": ["forest", "logging", "trees", "illegal"],
+      "description": "We are witnessing continuous activities of illegal logging in our forest, with no response from the authorities. Ranchers, loggers, miners, and land grabbers are seeking profit from the occupation and exploitation of public forest lands. ",
+      "jp_title": "ブラジルでの違法伐採",
+      "jp_location": "ロドニア、ブラジル",
+      "jp_tags": [
+        "森林",
+        "伐採",
+        "木",
+        "違法"
+      ],
+      "jp_description": "このオイルタンカーは数ヶ月前に島の海岸に沈み、約二百十万リットルのバンカー油が私たちの海を汚染しています。毎日のように死んだ魚が海に浮かんでいたり、油があちこちに散らばっているのを見てショックを受けています。私たちの島と海は黒く染まってしまいました。"
+    },
+    {
+      "id": 11,
+      "topic": "Environmental Justice",
+      "title": "Deforestation due to tourism",
+      "img": "./images/stories/destroyed_forest.jpg",
+      "comparison_img": "./images/data-previews/Hansen_Global_Forest_Change.jpg",
+      "satellite_data_assigned": "Hansen_Global_Forest_Change",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_global_forest_change_2019_v1_7?hl=en",
+      "date": "2018-04-02",
+      "location": "Dak Lak, Vietnam",
+      "lat": 12.7100,
+      "lng": 108.2378,
+      "rect": {
+        "north": 12.7100,
+        "south": 18.7100,
+        "east": 108.2378,
+        "west": 100.2378
+      },
+      "color": "blue",
+      "media": "image",
+      "tags": ["forest", "tourism", "deforestation", "degradation"],
+      "description": "Several \"eco-tourism\" spots including restaurants and entertainment areas have actually been desroying the waterfall and forest land. Construction companies have been building new projects under the banner of sustainable tourism, but have actually caused a deforestation hotspot. ",
+      "jp_title": "観光による森林破壊",
+      "jp_location": "ダクラク、ベトナム",
+      "jp_tags": [
+        "森林",
+        "観光",
+        "森林破壊",
+        "劣化"
+      ],
+      "jp_description": "レストランや娯楽施設を含む複数の「エコツーリズム」スポットは、滝や森林の土地を破壊しています。建設会社は、持続可能な観光という名目のもとで新しいプロジェクトの建設をしていますが、実際には森林破壊のホットスポットとなっています。"
+    },
+    {
+      "id": 12,
+      "topic": "Environmental Justice",
+      "title": "Community protection in the Amazon",
+      "img": "./images/stories/displaced_people.jpg",
+      "comparison_img": "./images/data-previews/Hansen_Global_Forest_Change.jpg",
+      "satellite_data_assigned": "Hansen_Global_Forest_Change",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_global_forest_change_2019_v1_7?hl=en",
+      "date": "2020-09-02",
+      "location": "Para, Brazil",
+      "lat": -6.035849, 
+      "lng": -53.054809,
+      "rect": {
+        "north": -6.035849,
+        "south": -2.035849,
+        "east": -53.054809,
+        "west": -59.054809
+      },
+      "color": "red",
+      "media": "image",
+      "tags": ["forest", "indigenous", "displacement", "fire"],
+      "description": "Many indigenous communities have been displaced over the past week due to the fires in the Amazon. President Bolsonaro has not reached out to help these individuals. For the people who have lived for generations within these forests, the fires are an immediate emergency, but also an illustration of their struggle for autonomy. ",
+      "jp_title": "アマゾンでのコミュニティの保護",
+      "jp_location": "パラ、ブラジル",
+      "jp_tags": [
+        "森林",
+        "先住民族",
+        "強制移住",
+        "火災"
+      ],
+      "jp_description": "この1週間、アマゾンの火災により、多くの先住民族のコミュニティが避難しています。ボルソナロ大統領は、これらの人々を助けるために手を差し伸べていません。この森の中で何世代にもわたって暮らしてきた人々にとって、火災は差し迫った緊急事態であると同時に、自治権を求める彼らの苦闘を示すものでもあります。"
+    },
+    {
+      "id": 13,
+      "topic": "Environmental Justice",
+      "title": "Rohingya displacement and deforestation",
+      "img": "./images/stories/rohingya.jpg",
+      "comparison_img": "./images/data-previews/Hansen_Global_Forest_Change.jpg",
+      "satellite_data_assigned": "Hansen_Global_Forest_Change",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_global_forest_change_2019_v1_7?hl=en",
+      "date": "2019-03-09",
+      "location": "Teknaf, Bangladesh",
+      "lat": 21.0557,
+      "lng": 92.2040,
+      "rect": {
+        "north": 21.0557,
+        "south": 22.5645048,
+        "east": 92.2040,
+        "west": 88.2040
+      },
+      "color": "green",
+      "media": "image",
+      "tags": ["forest", "displacement", "refugees", "politics"],
+      "description": "The displacement of Rohingyas into refugee camps is not only a tragic humanitarian crisis, but also one that is ecological. Camps housing often more than a million Rohingya refugees in Bangladesh have caused thousands of hectares to be destroyed near Cox's Bazar. This is a major threat to global biodiversity and is causing a serious degradation of critical natural habitats. This is also a huge risk factor to local residents and the refugees themselves with consequences such as contamination of surface water, landslides, and the rapid exhaustion of underground water supplies. ",
+      "jp_title": "ロヒンギャ族の強制移住と森林伐採",
+      "jp_location": "テクナフ、バングラデシュ",
+      "jp_tags": [
+        "森林",
+        "強制移住",
+        "難民",
+        "政治"
+      ],
+      "jp_description": "ロヒンギャ族の難民キャンプへの移動は、悲劇的な人道的危機であるだけでなく、生態学的危機でもあります。バングラデシュでは100万人以上のロヒンギャ難民を収容するキャンプのために、コックスバザール近郊の数千ヘクタールの自然が破壊されました。これは、世界の生物多様性に対する大きな脅威であり、重要な自然生息地の深刻な悪化を引き起こしています。また、地表水の汚染、地滑り、地下水の急速な枯渇などの結果、地域住民や難民自身にとっても大きなリスク要因となっています。"
+    },
+    {
+      "id": 14,
+      "topic": "Environmental Justice",
+      "title": "Local fishermen affect natural conservation center",
+      "img": "./images/stories/fishermen.jpg",
+      "comparison_img": "./images/data-previews/HYCOM.jpg",
+      "satellite_data_assigned": "HYCOM",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/HYCOM_sea_temp_salinity",
+      "date": "2020-08-08",
+      "location": "Hue, Vietnam",
+      "lat": 16.4637,
+      "lng": 107.5909,
+      "rect": {
+        "north": 16.4637,
+        "south": 22.5645048,
+        "east": 107.5909,
+        "west": 100.5909
+      },
+      "color": "yellow",
+      "media": "image",
+      "tags": ["oil spill", "ocean", "pollution", "fishing"],
+      "description": "Conflicts between a conservation center and local fishermen has erupted in the past weeks. The issue is cause by the fisherman's activity harming the natural ecosystem. Meanwhile, the fishermen themselves are economically dependent on such activities for their livelihood. Local government offices have been contacted with no response yet. ",
+      "jp_title": "地元の漁師が自然保護センターに影響",
+      "jp_location": "フエ、ベトナム",
+      "jp_tags": [
+        "原油流出",
+        "海",
+        "汚染",
+        "漁業"
+      ],
+      "jp_description": "ここ数週間、自然保護センターと地元の漁師達との間で争いが起こっています。漁師達の活動が自然の生態系に悪影響を与えていることが原因です。その一方で、漁師達は経済的にそのような活動に依存して生活しています。地元の政府機関に問い合わせても、まだ何の返答もありません。"
+    },
+    {
+      "id": 15,
+      "topic": "News",
+      "title": "New tourist bay discovered in Vietnam",
+      "img": "./images/stories/ocean_view.jpg",
+      "comparison_img": "./images/data-previews/Chlorophyll-a_concentration.jpg",
+      "satellite_data_assigned": "Chlorophyll-a_concentration",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GCOM-C_L3_OCEAN_CHLA_V2?hl=en",
+      "date": "2018-12-05",
+      "location": "Cat Ba Island, Vietnam",
+      "lat": 20.8000,
+      "lng": 106.9997,
+      "rect": {
+        "north": 20.8000,
+        "south": 22.5645048,
+        "east": 106.9997,
+        "west": 100.9997
+      },
+      "color": "blue",
+      "media": "image",
+      "tags": ["tourism", "nature", "fishing", "ocean"],
+      "description": "The beautiful bay of Cat Ba Island has in the last few months been covered by tourst boats. With natural settings more and more rare to find, tourist guides have flocked to this location, quickly destroying the biodiveristy and balance of this ecosystem.",
+      "jp_title": "ベトナムで発見された新しい観光湾",
+      "jp_location": "ベトナム・キャットバ島",
+      "jp_tags": [
+        "観光",
+        "自然",
+        "釣り",
+        "海"
+      ],
+      "jp_description": "カットバ島の美しい湾は、ここ数ヶ月の間に観光船で埋め尽くされてしまいました。自然のままの環境がますます貴重なものとなる中、観光ガイドがこの場所に集まり、生態系の生物多様性とバランスを急速に破壊しています。"
+    },
+    {
+      "id": 16,
+      "topic": "News",
+      "title": "Travelling to Paris during pandemic",
+      "img": "./images/stories/city.jpg",
+      "comparison_img": "./images/data-previews/YCEO_Surface_Urban_Heat_Islands.jpg",
+      "satellite_data_assigned": "YCEO_Surface_Urban_Heat_Islands",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/YALE_YCEO_UHI_UHI_yearly_pixel_v4?hl=en",
+      "date": "2020-12-21",
+      "location": "Paris, France",
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "rect": {
+        "north": 48.8566,
+        "south": 55.8566,
+        "east": 2.3522,
+        "west": -2.3522
+      },
+      "color": "red",
+      "media": "image",
+      "tags": ["emergency", "coronavirus", "city", "tourism"],
+      "description": "I just travelled to Paris in the midst of the coronavirus pandemic and I wanted to document the way locals are respecting lockdown rules. ",
+      "jp_title": "パンデミック中のパリへの旅行",
+      "jp_location": "パリ、フランス",
+      "jp_tags": [
+        "緊急事態",
+        "コロナウイルス",
+        "都市",
+        "観光"
+      ],
+      "jp_description": " 私はコロナウイルスが大流行している最中にパリを訪れたばかりなので、地元の人々がロックダウンのルールを守っている様子を記録したいと思いました。"
+    },
+    {
+      "id": 17,
+      "topic": "Environmental Justice",
+      "title": "Destroying the forest to build mines",
+      "img": "./images/stories/loscedros.jpg",
+      "comparison_img": "./images/data-previews/Hansen_Global_Forest_Change.jpg",
+      "satellite_data_assigned": "Hansen_Global_Forest_Change",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_global_forest_change_2019_v1_7?hl=en",
+      "date": "2021-02-27",
+      "location": "Los Cedros Reserve, Ecuador",
+      "lat": 0.380961,
+      "lng": -78.800583,
+      "rect": {
+        "north": 0.380961,
+        "south": 4.5645048,
+        "east": -78.800583,
+        "west": -83.7838215
+      },
+      "color": "green",
+      "media": "image",
+      "tags": [
+        "deforestation",
+        "mining",
+        "indigenous",
+        "ecocide"
+      ],
+      "description": "Australian mining company, Sunstone Metals, has incrementally taken over territories belonging to protected forest reserves in Los Cedros. These mining concessions have  also dstroyed two neighboring forests, namely the Cebu Forest west of Los Cedros and the Chontal Protected Forest.",
+      "jp_title": "鉱山建設のための森林破壊",
+      "jp_location": "ロス・セドロス保護区、エクアドル",
+      "jp_tags": [
+        "森林破壊",
+        "鉱業",
+        "環境・生態系の破壊",
+        "先住民族"
+      ],
+      "jp_description": "オーストラリアの鉱山会社サンストーン・メタルズ社は、ロス・セドロスの保護林に属する地域を段階的に占領してきました。採掘権は、ロス・セドロスの西にあるセブ・フォレストとチョンタル・プロテクト・フォレストという2つの隣接した森林を破壊しました。"
+    },
+    {
+      "id": 18,
+      "topic": "Environmental Justice",
+      "title": "Expulsions due to mining",
+      "img": "./images/stories/sanmarcos.jpg",
+      "comparison_img": "./images/data-previews/Hansen_Global_Forest_Change.jpg",
+      "satellite_data_assigned": "Hansen_Global_Forest_Change",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_global_forest_change_2019_v1_7?hl=en",
+      "date": "2018-12-20",
+      "location": "San Marcos, Ecuador",
+      "lat": -2.593940,
+      "lng": -78.894995,
+      "rect": {
+        "north": -2.593940,
+        "south": 2.5645048,
+        "east": -78.894995,
+        "west": -83.7838215
+      },
+      "color": "yellow",
+      "media": "image",
+      "tags": [
+        "displaced",
+        "forest",
+        "mining",
+        "indigenous"
+      ],
+      "description": "Violent evictions have taken place in the village of San Marcos in Ecuador, despite the resistance of indigenous residents. Neighboring mining operations have caused large-scale deforestation, toxic waste products, and cultural erasure over the years.",
+      "jp_title": "鉱山開発のために追放された人々",
+      "jp_location": "サンマルコス、エクアドル",
+      "jp_tags": [
+        "避難民",
+        "森林",
+        "鉱業",
+        "先住民族"
+      ],
+      "jp_description": "エクアドルのサンマルコス村では、先住民族の抵抗にもかかわらず、暴力的な立ち退きが行われています。隣接する鉱山の操業により、長年にわたり大規模な森林破壊、有害廃棄物、文化の抹消が行われてきました。"
+    },
+    {
+      "id": 19,
+      "topic": "Environmental Justice",
+      "title": "Destruction of childhood home due to mining",
+      "img": "./images/stories/childhood-home.jpg",
+      "comparison_img": "./images/data-previews/Hansen_Global_Forest_Change.jpg",
+      "satellite_data_assigned": "Hansen_Global_Forest_Change",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_global_forest_change_2019_v1_7?hl=en",
+      "date": "2019-06-14",
+      "location": "Tundayme, Ecuador",
+      "lat": -3.575637,
+      "lng": -78.489729,
+      "rect": {
+        "north": -3.575637,
+        "south": 2.5645048,
+        "east": -78.489729,
+        "west": -83.7838215
+      },
+      "color": "blue",
+      "media": "image",
+      "tags": [
+        "indigenous",
+        "mining",
+        "heritage",
+        "deforestation"
+      ],
+      "description": "My name is Raul and I am standing at the site of my parent's house, where I grew up. Our family home was destroyed by state forces five years ago and this is what there is left.",
+      "jp_title": "鉱山開発で幼少期の家が破壊される",
+      "jp_location": "トゥンダイム、エクアドル",
+      "jp_tags": [
+        "先住民族",
+        "鉱業",
+        "遺産",
+        "森林破壊"
+      ],
+      "jp_description": "私の名前はラウルです。私は自分が育った実家の跡地に立っています。私たちの実家は5年前に国家権力によって破壊され、これがその残りです。"
+    },
+    {
+      "id": 20,
+      "topic": "Environmental Justice",
+      "title": "Mining causing evictions",
+      "img": "./images/stories/expulsions.jpg",
+      "comparison_img": "./images/data-previews/Hansen_Global_Forest_Change.jpg",
+      "satellite_data_assigned": "Hansen_Global_Forest_Change",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_global_forest_change_2019_v1_7?hl=en",
+      "date": "2020-04-16",
+      "location": "El Quimi, Ecuador",
+      "lat": -3.439979,
+      "lng": -78.405471,
+      "rect": {
+        "north": -3.439979,
+        "south": 2.5645048,
+        "east": -78.405471,
+        "west": -84.7838215
+      },
+      "color": "red",
+      "media": "image",
+      "tags": [
+        "mining",
+        "deforestation",
+        "eviction",
+        "forest"
+      ],
+      "description": "In the Ecuadorian region of el Cordillera del Condor, we've experienced large numbers of evictions. This picture shows the latest eviction that took place near El Quimi's community center. This was caused by the expansion of the Mirador mining area, which has affected 27 families so far.",
+      "jp_title": "採掘による立ち退き",
+      "jp_location": "エル・クイミ、 エクアドル",
+      "jp_tags": [
+        "採掘",
+        "森林伐採",
+        "立ち退き",
+        "森林"
+      ],
+      "jp_description": "エクアドルのコルディリェラ・デル・コンドル地域では、大量の立ち退きが行われています。この写真は、El Quimiのコミュニティセンターの近くで起きた最新の立ち退きです。これは、ミラドール鉱山の拡張によって引き起こされたもので、これまでに27世帯が影響を受けています。"
+    },
+    {
+      "id": 21,
+      "topic": "Environmental Justice",
+      "title": "Organising against Ecuacorriente",
+      "img": "./images/stories/allies.jpg",
+      "comparison_img": "./images/data-previews/Hansen_Global_Forest_Change.jpg",
+      "satellite_data_assigned": "Hansen_Global_Forest_Change",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_global_forest_change_2019_v1_7?hl=en",
+      "date": "2021-01-04",
+      "location": "Tundayme, Ecuador",
+      "lat": -3.564500,
+      "lng": -78.462094,
+      "rect": {
+        "north": -3.564500,
+        "south": 2.5645048,
+        "east": -78.462094,
+        "west": -84.7838215
+      },
+      "color": "green",
+      "media": "image",
+      "tags": [
+        "mining",
+        "deforestation",
+        "ecocide",
+        "local"
+      ],
+      "description": "Last Sunday our indigenous women group rallied to defend the Amazon against Ecuacorriente's mining activities. Amazonian leaders of seven groups including Andoa, Achuar, Kichwa, Shuar, Shiwiar, Sapara, and Waorani attended the event. We will be joining our international allies to take action in a forum and continue marching in defense of our forest.",
+      "jp_title": "Ecuacorriente社に反対する組織",
+      "jp_location": "トゥンダイム、エクアドル",
+      "jp_tags": [
+        "採掘",
+        "森林破壊",
+        "地域",
+        "環境・生態系破壊"
+      ],
+      "jp_description": "先週の日曜日、私たち先住民族の女性グループは、エクアコレンテ社の採掘活動からアマゾンを守るために集会を開きました。Andoa、Achuar、Kichwa、Shuar、Shiwiar、Sapara、Waoraniなど7つのグループのアマゾンのリーダーが参加しました。私たちは、国際的な協力者と一緒に、フォーラムで行動を起こし、森を守るために行動を続ける予定です"
+    },
+    {
+      "id": 22,
+      "topic": "Environmental Justice",
+      "title": "Wildlife endangered by open pit mines",
+      "img": "./images/stories/fish.jpg",
+      "comparison_img": "./images/data-previews/Hansen_Global_Forest_Change.jpg",
+      "satellite_data_assigned": "Hansen_Global_Forest_Change",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_global_forest_change_2019_v1_7?hl=en",
+      "date": "2016-06-03",
+      "location": "Mirador, Ecuador",
+      "lat": -3.569151,
+      "lng": -78.436162,
+      "rect": {
+        "north": -3.569151,
+        "south": 2.5645048,
+        "east": -78.436162,
+        "west": -85.7838215
+      },
+      "color": "yellow",
+      "media": "image",
+      "tags": [
+        "wildlife",
+        "deforestation",
+        "mining",
+        "animals"
+      ],
+      "description": "Mining in the Cordillera del Condor area has impacted water drainage, with polluted water running off from the mine. This has affected the entire local ecosystem, with various species going extinct and developing sickenesses. For instance, the presence of mercury in food and water has been confirmed to be found in high concentrations. 90% of fish caught by villagers in the Tapajos River were found to be contaminated with methyl mercury.",
+      "jp_title": "露天掘りで絶滅の危機にさらされる野生動物",
+      "jp_location": "ミラドール、エクアドル",
+      "jp_tags": [
+        "野生生物",
+        "森林破壊",
+        "鉱業",
+        "動物"
+      ],
+      "jp_description": "コルディリェラ・デル・コンドル地域での採掘は、水利に影響を与え、汚染された水が鉱山から流出しています。これが地域の生態系全体に影響を及ぼし、さまざまな種が絶滅したり、病気になったりしています。例えば、食品や水には高濃度の水銀が含まれていることが確認されています。タパジョス川で村人が釣った魚の90％がメチル水銀に汚染されていることが判明しました。"
+    },
+    {
+      "id": 23,
+      "topic": "Environmental Justice",
+      "title": "Open pit mines in Brazil",
+      "img": "./images/stories/carajas.jpg",
+      "comparison_img": "./images/data-previews/Hansen_Global_Forest_Change.jpg",
+      "satellite_data_assigned": "Hansen_Global_Forest_Change",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_global_forest_change_2019_v1_7?hl=en",
+      "date": "2019-09-12",
+      "location": "Carajas, Brazil",
+      "lat": -6.057348,
+      "lng":  -50.171643,
+      "rect": {
+        "north": -6.057348,
+        "south": 2.5645048,
+        "east": -50.171643,
+        "west": -59.7838215
+      },
+      "color": "blue",
+      "media": "image",
+      "tags": [
+        "disaster",
+        "drought",
+        "mining",
+        "forest"
+      ],
+      "description": "In Carajas, you can find the largest copper mine in the world. There used to be a large forest where this picture was taken. Now it has been entirely replaced by a vast open pit digging incessantly for metal and harming the livelihoods of locals.",
+      "jp_title": "ブラジルの露天掘り鉱山",
+      "jp_location": "カラジャス、ブラジル",
+      "jp_tags": [
+        "災害",
+        "干ばつ",
+        "鉱業",
+        "森林"
+      ],
+      "jp_description": "カラジャスには、世界最大の銅山があります。この写真を撮った場所には、かつて大きな森がありました。今では、その森は、絶え間なく金属を掘り続ける広大な露天掘りに完全に取って代わられ、地元の人々の生活に悪影響を与えています。"
+    },
+    {
+      "id": 24,
+      "topic": "Environmental Justice",
+      "title": "Fighting for our forest",
+      "video": "./images/stories/minera.mp4",
+      "img": "./images/stories/minera.jpg",
+      "comparison_img": "./images/data-previews/Hansen_Global_Forest_Change.jpg",
+      "satellite_data_assigned": "Hansen_Global_Forest_Change",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_global_forest_change_2019_v1_7?hl=en",
+      "date": "2015-11-20",
+      "location": "Tundayme, Ecuador",
+      "lat": -3.566007,
+      "lng": -78.454951,
+      "rect": {
+        "north": -3.566007,
+        "south": 2.5645048,
+        "east": -78.454951,
+        "west": -85.454951
+      },
+      "color": "red",
+      "media": "video",
+      "tags": [
+        "ecuador",
+        "forest",
+        "mining",
+        "resistance"
+      ],
+      "description": "Our region functions as a natural bridge between different ecosystems spanning from the jungle to the mountains. Our ancestors have lived in this biological refuge for many years and have developed a deep understanding of this land. The Mirador mining project is destroying this ecosystem - it has changed the forest dramatically and the infrastructure of the mine only keeps expanding. Through this video, we wish to raise awareness about this important issue.",
+      "jp_title": "私たちの森を守るために",
+      "jp_location": "トゥンダイム、エクアドル",
+      "jp_tags": [
+        "エクアドル",
+        "森林",
+        "鉱業",
+        "抵抗"
+      ],
+      "jp_description": "私たちの地域は、ジャングルから山岳地帯に渡る、さまざまな生態系をつなぐ架け橋のような役割を果たしています。私たちの祖先は、この生物学的な隠れ家で長い間生活し、この土地に対する深い理解を育んできました。ミラドール鉱山プロジェクトは、この生態系を破壊しています。森林を劇的に変化させ、鉱山のためのインフラは拡大の一途をたどっています。このビデオを通じて、この重要な問題に対する認識を高めたいと思います。"
+    },
+    {
+      "id": 25,
+      "topic": "Environmental Justice",
+      "title": "Cultural erasure due to mining",
+      "img": "./images/stories/ceramics.jpg",
+      "comparison_img": "./images/data-previews/Hansen_Global_Forest_Change.jpg",
+      "satellite_data_assigned": "Hansen_Global_Forest_Change",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_global_forest_change_2019_v1_7?hl=en",
+      "date": "2019-05-18",
+      "location": "Tundayme, Ecuador",
+      "lat": -3.566481,
+      "lng": -78.477416,
+      "rect": {
+        "north": -3.566481,
+        "south": 2.5645048,
+        "east": -78.477416,
+        "west": -84.477416
+      },
+      "color": "green",
+      "media": "image",
+      "tags": [
+        "heritage",
+        "mining",
+        "culture",
+        "forest"
+      ],
+      "description": "Expulsions of local communities and deforestation caused by mining has disrupted important cultural indigenous sites. These historical sites are linked to centuries of traditional practices, including sculpting, ceramics, and pottery. Many of these sites even contained sacred funeral urns of ancestors, now destroyed by mining operations.",
+      "jp_title": "採掘による文化の消失",
+      "jp_location": "トゥンダイム、エクアドル",
+      "jp_tags": [
+        "暴力",
+        "アマゾン",
+        "森林破壊",
+        "鉱業"
+      ],
+      "jp_description": "採掘による地域コミュニティの放逐や森林破壊により、重要な文化的先住民族の遺跡が破壊されています。これらの歴史的な場所は、彫刻、陶磁器などの何世紀にもわたる伝統的な慣習と結びついています。これらの遺跡の多くには、先祖の神聖な葬儀用の骨壷がありましたが、現在は採掘作業によって破壊されています。"
+    },
+    {
+      "id": 26,
+      "topic": "Environmental Justice",
+      "title": "Mining violates human rights",
+      "img": "./images/stories/amazon-evictions.jpg",
+      "comparison_img": "./images/data-previews/Hansen_Global_Forest_Change.jpg",
+      "satellite_data_assigned": "Hansen_Global_Forest_Change",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_global_forest_change_2019_v1_7?hl=en",
+      "date": "2018-08-17",
+      "location": "Tundayme, Ecuador",
+      "lat": -3.579290,
+      "lng": -78.479317,
+      "rect": {
+        "north": -3.579290,
+        "south": 2.5645048,
+        "east": -78.479317,
+        "west": -84.479317
+      },
+      "color": "yellow",
+      "media": "image",
+      "tags": [
+        "violence",
+        "amazon",
+        "mining",
+        "deforestation"
+      ],
+      "description": "This mining project has been marked by numerous human rights violations of indigenous and farming communities. These communities were often evicted without being consulted or warned, which is illegal according to the international protocols of which Ecuador is signatory. These evictions were carried out forcibly, destroying houses, gardens, communal buildings, and directing violence against entire communities.",
+      "jp_title": "",
+      "jp_location": "",
+      "jp_tags": [
+        "",
+        "",
+        ""
+      ],
+      "jp_description": ""
+    },
+    {
+      "id": 27,
+      "topic": "Disaster",
+      "title": "Violent earthquake shakes neighborhood",
+      "img": "./images/stories/house-earthquake.jpg",
+      "comparison_img": "./images/data-previews/Accessibility_to_Healthcare_2019.jpg",
+      "satellite_data_assigned": "Accessibility_to_Healthcare_2019",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/Oxford_MAP_accessibility_to_healthcare_2019",
+      "date": "2019-06-18",
+      "location": "Yamagata, Japan",
+      "lat": 38.312390,
+      "lng": 140.323824,
+      "rect": {
+        "north": 38.312390,
+        "south": 43.312390,
+        "east": 140.323824,
+        "west": 135.323824
+      },
+      "color": "blue",
+      "media": "image",
+      "tags": [
+        "locals",
+        "destruction",
+        "disaster",
+        "earthquake"
+      ],
+      "description": "30 people were injured in the latest earthquake. Landslides and power outages caused hundreds of people to evacuate from their homes. The local sumo ring shown in the picture collapsed in an elementary school.",
+      "jp_title": "地域を揺るがす激しい地震",
+      "jp_location": "山形、日本",
+      "jp_tags": [
+        "地元住民",
+        "破壊",
+        "災害",
+        "地震"
+      ],
+      "jp_description": "今回の地震では、30人が負傷しました。また、土砂崩れや停電により、数百人の人々が避難を余儀なくされました。写真にある小学校の相撲の土俵も崩壊しました。"
+    },
+    {
+      "id": 28,
+      "topic": "Disaster",
+      "title": "Intense earthquake fractures road",
+      "img": "./images/stories/road.jpg",
+      "comparison_img": "./images/data-previews/Accessibility_to_Healthcare_2019.jpg",
+      "satellite_data_assigned": "Accessibility_to_Healthcare_2019",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/Oxford_MAP_accessibility_to_healthcare_2019",
+      "date": "2019-06-18",
+      "location": "Yamagata, Japan",
+      "lat": 38.310248,
+      "lng": 140.313776,
+      "rect": {
+        "north": 38.310248,
+        "south": 42.5645048,
+        "east": 140.313776,
+        "west": 135.313776
+      },
+      "color": "red",
+      "media": "image",
+      "tags": [
+        "disaster",
+        "japan",
+        "earthquake",
+        "infrastructure"
+      ],
+      "description": "The intense earthquake on Tuesday completely fractured the road in front of our house. It is impossible for us to evacuate with our belongings now.",
+      "jp_title": "激しい地震による道路の破損",
+      "jp_location": "山形、日本",
+      "jp_tags": [
+        "災害",
+        " 地震",
+        "日本",
+        "インフラ"
+      ],
+      "jp_description": "火曜日の激しい地震で、家の前の道路が完全に壊れてしまいました。現在、荷物を持って避難することはできません。"
+    },
+    {
+      "id": 29,
+      "topic": "Disaster",
+      "title": "Many injured by earthquake",
+      "img": "./images/stories/dishes.jpg",
+      "comparison_img": "./images/data-previews/Accessibility_to_Healthcare_2019.jpg",
+      "satellite_data_assigned": "Accessibility_to_Healthcare_2019",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/Oxford_MAP_accessibility_to_healthcare_2019",
+      "date": "2019-06-18",
+      "location": "Yamagata, Japan",
+      "lat": 38.318969,
+      "lng": 140.322615,
+      "rect": {
+        "north": 38.318969,
+        "south": 43.318969,
+        "east": 140.322615,
+        "west": 135.322615
+      },
+      "color": "green",
+      "media": "image",
+      "tags": [
+        "relief",
+        "earthquake",
+        "disaster",
+        "home"
+      ],
+      "description": "Around 19 people were injured in my neighborhood in the big earthquake. We are still waiting for authorities to help us, while we rebuild and repair our homes slowly. Please share our story to encourage relief efforts to reach us faster!",
+      "jp_title": "地震による多くの負傷者",
+      "jp_location": "山形、日本",
+      "jp_tags": [
+        "地震",
+        "地震",
+        "災害",
+        "家"
+      ],
+      "jp_description": "今回の地震で、私の地域では19人ほどが怪我をしました。私たちは、少しずつ家を建て直し、修復しながら、政府の支援を待っているところです。私たちの話をシェアして、救援活動がより早く届くように促してください！"
+    },
+    {
+      "id": 30,
+      "topic": "Disaster",
+      "title": "Rebuilding our road",
+      "img": "./images/stories/infrastructure.jpg",
+      "comparison_img": "./images/data-previews/Accessibility_to_Healthcare_2019.jpg",
+      "satellite_data_assigned": "Accessibility_to_Healthcare_2019",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/Oxford_MAP_accessibility_to_healthcare_2019",
+      "date": "2020-06-18",
+      "location": "Yamagata, Japan",
+      "lat": 38.310248,
+      "lng": 140.313776,
+      "rect": {
+        "north": 38.310248,
+        "south": 44.310248,
+        "east": 140.313776,
+        "west": 134.313776
+      },
+      "color": "yellow",
+      "media": "image",
+      "tags": [
+        "disaster",
+        "japan",
+        "earthquake",
+        "infrastructure"
+      ],
+      "description": "It has been exactly a year since the big earthquake. We have notified athorities about the broken road and are still waiting for help or compensation for rebuilding the infrastructure.",
+      "jp_title": "道路の復旧",
+      "jp_location": "山形、日本",
+      "jp_tags": [
+        "インフラ",
+        "日本",
+        "地震",
+        "災害"
+      ],
+      "jp_description": "あの大地震からちょうど1年が経ちました。私たちは道路が壊れていることを当局に知らせました。インフラを再建するための援助や補償を待っているところです。"
+    },
+    {
+      "id": 31,
+      "topic": "Environmental Justice",
+      "title": "Fleeing from Myanmar",
+      "img": "./images/stories/camp.jpg",
+      "comparison_img": "./images/data-previews/Hansen_Global_Forest_Change.jpg",
+      "satellite_data_assigned": "Hansen_Global_Forest_Change",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_global_forest_change_2019_v1_7?hl=en",
+      "date": "2017-08-25",
+      "location": "Kutupalong, Bangladesh",
+      "lat": 21.212288,
+      "lng": 92.163378,
+      "rect": {
+        "north": 21.212288,
+        "south": 28.212288,
+        "east": 92.163378,
+        "west": 82.163378
+      },
+      "color": "blue",
+      "media": "image",
+      "tags": [
+        "refugee",
+        "rohingya",
+        "displacement",
+        "deforestation"
+      ],
+      "description": "The arrival of over 600,000 refugees from Myanmar has caused the Kutupalong area to become a large refugee camp. These refugees are living in extreme poverty yet are trying to rekindle an element of their former lives. Many were farmers across the border in Myanmar's Rakhine state before the Burmese military operations killed thousands of civilians and caused a genocide.",
+      "jp_title": "ミャンマーからの避難",
+      "jp_location": "クトゥパロン、バングラデシュ",
+      "jp_tags": [
+        "森林破壊",
+        "ロヒンギャ",
+        "強制移住",
+        "難民"
+      ],
+      "jp_description": "ミャンマーからの60万人以上の難民の到着により、クトゥパロン地区は大規模な難民キャンプとなりました。これらの難民は極貧の生活を送りながらも、かつての生活の一端を取り戻そうとしています。彼らの多くは、ミャンマー軍の軍事行動によって何千人もの民間人が殺害され、大量虐殺が行われる以前は、国境を越えてミャンマーのラカイン州で農業を営んでいました。"
+    },
+    {
+      "id": 32,
+      "topic": "Environmental Justice",
+      "title": "Famous forest in Bangladesh",
+      "img": "./images/stories/forest-patrol.jpg",
+      "comparison_img": "./images/data-previews/Hansen_Global_Forest_Change.jpg",
+      "satellite_data_assigned": "Hansen_Global_Forest_Change",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_global_forest_change_2019_v1_7?hl=en",
+      "date": "2020-12-25",
+      "location": "Kutupalong, Bangladesh",
+      "lat": 21.212288,
+      "lng": 92.163378,
+      "rect": {
+        "north": 21.212288,
+        "south": 28.212288,
+        "east": 92.163378,
+        "west": 88.163378
+      },
+      "color": "red",
+      "media": "image",
+      "tags": [
+        "refugee",
+        "rohingya",
+        "displacement",
+        "deforestation"
+      ],
+      "description": "The forest in Kutupalong is one of the most biodiverse in the country. Our forest patrol group encourages volunteers to protect the forest ecosystem against poachers and illegal loggers.",
+      "jp_title": "バングラデシュの有名な森",
+      "jp_location": "クトゥパロン、バングラデシュ",
+      "jp_tags": [
+        "森林破壊",
+        "ロヒンギャ",
+        "避難民",
+        "難民"
+      ],
+      "jp_description": "クトゥパロンの森は、国内で最も生物多様性に富んだ森のひとつです。私たちの森林パトロールグループは、密猟者や違法伐採者から森林の生態系を守ることをボランティアに奨励しています。"
+    },
+    {
+      "id": 33,
+      "topic": "Environmental Justice",
+      "title": "Rohingya plant gardens in camps",
+      "img": "./images/stories/refugee-forest.jpg",
+      "video": "./images/stories/refugee-forest.mp4",
+      "comparison_img": "./images/data-previews/Hansen_Global_Forest_Change.jpg",
+      "satellite_data_assigned": "Hansen_Global_Forest_Change",
+      "data": "https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_global_forest_change_2019_v1_7?hl=en",
+      "date": "2020-12-21",
+      "location": "Kutupalong, Bangladesh",
+      "lat": 21.212288,
+      "lng": 92.163378,
+      "rect": {
+        "north": 21.212288,
+        "south": 24.5645048,
+        "east": 92.163378,
+        "west": 88.163378
+      },
+      "color": "green",
+      "media": "video",
+      "tags": [
+        "refugee",
+        "rohingya",
+        "displacement",
+        "deforestation"
+      ],
+      "description": "Deforestation has slowed in the Kutupalong Rohingya refugee camp as its inhabitants are finding ways to survive by nourishing the damaged environmnet. The refugees have received micro-gardening kits, which allow them to plot their own land and supplement food rations. It also allows them to earn money by growing them and selling them on markets.",
+      "jp_title": "ロヒンギャがキャンプで庭作り",
+      "jp_location": "クトゥパロン、バングラデシュ",
+      "jp_tags": [
+        "森林破壊",
+        "ロヒンギャ",
+        "避難民",
+        "難民"
+      ],
+      "jp_description": "クトゥパロンのロヒンギャ難民キャンプでは、居住者たちが破壊された環境を回復しながら生き延びる方法を見つけたので、森林の減少が緩やかになってきています。難民たちには、自分たちで土地を耕し、配給される食料を補うことができるマイクロガーデンキットが配布されています。また、それにより、栽培したものを市場で販売して収入を得ることもできます。"
+    }
+   ]

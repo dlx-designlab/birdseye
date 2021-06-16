@@ -1,0 +1,101 @@
+{
+    "back": "戻る",
+    "search-stories-page": {
+        "search-placeholder": "キーワードや地域で検索...",
+        "deforestation": "森林破壊",
+        "ocean": "海",
+        "relevance": "関連性",
+        "level": "レベル",
+        "date": "日付",
+        "location": "所在地",
+        "reviews": "レビュー",
+        "popularity": "人気度",
+        "apply": "適用",
+        "data": "データ",
+        "story": "ストーリー",
+        "current-alerts": "your アラートの作成: 農業 , 災害, コロナウイルス",
+        "sort-settings": "並べ替え",
+        "point": "ポイント",
+        "area": "地域"
+    },
+    "profile-page": {      
+        "settings": "設定",     
+        "location-history": "ロケーション履歴",       
+        "suggestion-pref": "提案の設定",
+        "five-keywords": "5つのキーワード",
+        "saved": "26 保存"
+    },
+    "network-page": {
+        "title": "ネットワーク", 
+        "requests": "リクエスト",
+        "connections": "コネクション",
+        "search-placeholder": "探す >",
+        "search-request-placeholder": "リクエスト...",
+        "connections-count": "10コネクション",
+        "data-request": "リクエスト: データ",
+        "story-request": "リクエスト: ストーリー"
+    },
+    "points-page": {
+        "title": "ポイント ",       
+        "next-level": "次のレベル",
+        "verified-source": "検証済みソース",
+        "counter": "3125ポイント",
+        "current-level": "現在のレベル",       
+        "apply": "検証を申請する >",
+        "upload": "認定書、卒業証書、証明書のアップロード  >",
+        "verified": "検証済み情報源 (10 ポイント) >",       
+        "provide": "リクエストへの回答をする (500 ポイント)  >",
+        "reviews": "肯定的なレビュー (20 ポイント)  >"
+    },
+    "alerts-page": {
+        "title": "アラート",
+        "update": "結果の更新",       
+        "create": "アラートの作成 ",        
+        "current": "現在のキーワード",
+        "disaster": "災害",
+        "earthquake": "地震",        
+        "deforestation": "森林破壊",
+        "coronavirus": "コロナウイルス",        
+        "ocean": "海",        
+        "farming": "農業"    
+    },    
+    "archives-page": {        
+        "title": "アーカイブ",
+        "saved-posts": "",  
+        "one": "エクアドルの先住民族の遺産  >",        
+        "two": "伝統的な農業に関するコミュニティでの学習  >",        
+        "three": "日本での無農薬綿花栽培  >"    
+    },
+    "stories-info": {      
+        "source": "ソース",
+        "data": "データ",  
+        "similar": "類似したストーリー >",
+        "similar-to": "類似したストーリー"    
+    },
+    "upload": {        
+        "pair-story": "",
+        "request-story": "ストーリーのリクエスト",        
+        "request-data": "データのリクエスト",        
+        "search-placeholder": "検索キーワード（例：洪水、森林破壊、地震、都市)",        
+        "share": "ストーリーを共有する:",        
+        "title": "タイトル...",        
+        "pair": "データとのペアリング:",        
+        "media": "メディア >",        
+        "location": "場所 >",        
+        "date": "日付 >",        
+        "tags": "タグ >",        
+        "description": "説明 >",
+        "cta": "ペア"
+    },    
+    "analyze": {        
+        "filters": "フィルター",        
+        "all-posts": "すべての投稿",        
+        "my-posts": "私の投稿 ",        
+        "search-placeholder": "検索キーワードまたはタグ...",        
+        "from": "から >",        
+        "to": "まで >",        
+        "location": "場所 >",        
+        "patterns": "パターン",        
+        "timeline": "タイムライン"    
+    }
+}
