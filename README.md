@@ -1,4 +1,4 @@
-# forensic-storytelling
+# Birdseye
 
 ## Project setup
 ```
